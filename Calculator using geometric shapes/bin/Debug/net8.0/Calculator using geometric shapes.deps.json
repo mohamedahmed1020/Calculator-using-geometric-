@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculator using geometric shapes/1.0.0": {
+        "runtime": {
+          "Calculator using geometric shapes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator using geometric shapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

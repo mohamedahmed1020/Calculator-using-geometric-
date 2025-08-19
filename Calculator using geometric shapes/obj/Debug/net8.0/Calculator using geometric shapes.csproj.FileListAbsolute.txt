@@ -1,0 +1,14 @@
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\bin\Debug\net8.0\Calculator using geometric shapes.exe
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\bin\Debug\net8.0\Calculator using geometric shapes.deps.json
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\bin\Debug\net8.0\Calculator using geometric shapes.runtimeconfig.json
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\bin\Debug\net8.0\Calculator using geometric shapes.dll
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\bin\Debug\net8.0\Calculator using geometric shapes.pdb
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\Calculator using geometric shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\Calculator using geometric shapes.AssemblyInfoInputs.cache
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\Calculator using geometric shapes.AssemblyInfo.cs
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\Calculator using geometric shapes.csproj.CoreCompileInputs.cache
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\Calculator using geometric shapes.dll
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\refint\Calculator using geometric shapes.dll
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\Calculator using geometric shapes.pdb
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\Calculator using geometric shapes.genruntimeconfig.cache
+D:\Bdaya team C# (20252024)\Calculator\Calculator using geometric shapes\Calculator using geometric shapes\Calculator using geometric shapes\obj\Debug\net8.0\ref\Calculator using geometric shapes.dll
